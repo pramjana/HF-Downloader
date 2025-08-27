@@ -1,6 +1,6 @@
 # 🤗 Hugging Face Model Downloader
 
-A lightweight Qt 6 GUI for searching Hugging Face repositories and downloading individual files or entire model repositories with progress tracking and resumable downloads.
+A lightweight PySide 6 GUI for searching Hugging Face repositories and downloading individual files or entire model repositories with progress tracking and resumable downloads.
 
 ## Features
 - Search models by name (fuzzy) or enter a full `org/repo` identifier.  
